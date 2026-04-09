@@ -1,7 +1,5 @@
 # Gene Clustering: Building Phylogenetic Trees
 
-*Authors: Naroa Iparraguirre and Urtats Berrocal*
-
 This project implements a computational pipeline to infer evolutionary relationships between species by analyzing shared genes. By measuring genetic distances, the tool generates phylogenetic "family trees" (dendrograms) using various sequence alignment and hierarchical clustering techniques.
 
 ## Project Overview
